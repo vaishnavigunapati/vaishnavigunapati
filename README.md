@@ -57,7 +57,7 @@ Built with `KNN`, `Cosine Similarity`, and `Matrix Factorization`
 
 ### 🏢 Experience
 
-#### 💼 Relig Staffing – *Machine Learning Engineer* (09/2024 – Present)
+#### 💼 Relig Global – *Machine Learning Engineer* (09/2024 – Present)
 > AI-driven recruitment, LLM screening, RPA automation  
 > ✅ Reduced manual hiring effort by 40%  
 > 📈 Boosted screening precision by 45%  
